@@ -748,3 +748,17 @@ Note: None of the above options appear to be correct. A correct answer would be 
 - [x] "
 - [ ] -
 - [ ] :
+
+#### Q66. What is the purpose of JSON?
+
+- [X] To provide a simple way to serialize and deserialize data between different sourses.
+- [ ] To provide a way to store data for machine learning.
+- [ ] To provide an archival solution for data warehousing.
+- [ ] To provide a way for Javascript to run other languages.
+
+#### Q67. Can you assume the order of keys in an object?
+
+- [ ] No, but you can sort the keys with JSON.sort().
+- [ ] Yes, object keys are always ordered alphabetically.
+- [ ] Yes, but only if the object is first parsed.
+- [ ] No, you can never assume object keys will be in order.
